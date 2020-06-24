@@ -5,31 +5,31 @@ namespace Feed\Creator;
 use Carbon\Carbon;
 use SimpleXLSX;
 
-function createFeed($inputFile, $pathToOutputFile)
+const XML_INFO = <<<XMLINFO
+<?xml version="1.0" encoding="utf-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+XMLINFO;
+
+const FOOTER = "</realty-feed>";
+const PATH_TO_OUTPUT_FILE = __DIR__ . '/../outputFiles/feed.xml';
+
+function createFeed(string $inputFile, string $pathToOutputFile = PATH_TO_OUTPUT_FILE): void
 {
     $rows = parsExcel($inputFile);
-
-    $xmlInfo = <<<XMLINFO
-    <?xml version="1.0" encoding="utf-8"?>
-    <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-    XMLINFO;
     $now = Carbon::now()->toW3cString();
     $creationDate = Carbon::create(2020, 6, 21)->toW3cString();
     $genDate = "\n<generation-date>{$now}</generation-date>" . "\r\n";
+    $header = XML_INFO . $genDate;
 
-    $header = $xmlInfo . $genDate;
-
-    $offer = makeOffer($rows, '', $creationDate);
-    $footer = "</realty-feed>";
-
-    $resultFeed = $header . $offer . $footer;
+    $offer = makeOffer($rows, $creationDate);
+    $resultFeed = $header . $offer . FOOTER;
     $outputFile = file_put_contents($pathToOutputFile, $resultFeed);
     if ($outputFile !== false) {
         echo "Your XML file have been successfully generated. \nLook up here - " . $pathToOutputFile . "\n\n";
     }
 }
 
-function parsExcel($inputFile)
+function parsExcel(string $inputFile): array
 {
     if ($xlsx = SimpleXLSX::parse($inputFile)) {
         $header_values = $rows = [];
@@ -41,10 +41,12 @@ function parsExcel($inputFile)
             $rows[] = array_combine($header_values, $r);
         }
     }
+    
     return $rows;
 }
 
-function makeOffer($rows, $offer, $creationDate)
+
+function makeOffer(array $rows, string $creationDate, string $offer = ''): string
 {
     foreach ($rows as $row) {
         $offer .= '<offer internal-id="' . $row['offer id'] . '">' . "\r\n";
@@ -79,8 +81,13 @@ function makeOffer($rows, $offer, $creationDate)
         $offer .= '<photo>' . $row['photo'] . '</photo>' . "\r\n";
         $offer .= '</sales-agent>' . "\r\n";
         // inner elements sales-agent end
-    
-        $offer .= '<rooms>' . $row['rooms'] . '</rooms>' . "\r\n";
+
+        if (!empty($row['rooms'])) {
+            $offer .= '<rooms>' . $row['rooms'] . '</rooms>' . "\r\n";
+        } else {
+            $offer .= '<studio>' . $row['studio'] . '</studio>' . "\r\n";
+        }
+        
         $offer .= '<new-flat>' . $row['new-flat'] . '</new-flat>' . "\r\n";
         $offer .= '<bathroom-unit>' . $row['bathroom-unit'] . '</bathroom-unit>' . "\r\n";
         $offer .= '<balcony>' . $row['balcony'] . '</balcony>' . "\r\n";
@@ -109,5 +116,6 @@ function makeOffer($rows, $offer, $creationDate)
     
         $offer .= '</offer>' . "\r\n";
     }
+
     return  $offer;
 }

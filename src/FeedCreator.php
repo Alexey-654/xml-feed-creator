@@ -1,13 +1,13 @@
 <?php
 
-namespace feedCreator;
+namespace Feed\Creator;
 
 use Carbon\Carbon;
 use SimpleXLSX;
 
-function createFeed($inputFileName, $outputFeedFile)
+function createFeed($inputFile, $pathToOutputFile)
 {
-    $rows = parsExcel($inputFileName);
+    $rows = parsExcel($inputFile);
 
     $xmlInfo = <<<XMLINFO
     <?xml version="1.0" encoding="utf-8"?>
@@ -23,15 +23,15 @@ function createFeed($inputFileName, $outputFeedFile)
     $footer = "</realty-feed>";
 
     $resultFeed = $header . $offer . $footer;
-    $outputFile = file_put_contents($outputFeedFile, $resultFeed);
+    $outputFile = file_put_contents($pathToOutputFile, $resultFeed);
     if ($outputFile !== false) {
-        echo "Your XML file have been successfully generated. \nLook up here - " . $outputFeedFile . "\n\n";
+        echo "Your XML file have been successfully generated. \nLook up here - " . $pathToOutputFile . "\n\n";
     }
 }
 
-function parsExcel($inputFileName)
+function parsExcel($inputFile)
 {
-    if ($xlsx = SimpleXLSX::parse($inputFileName)) {
+    if ($xlsx = SimpleXLSX::parse($inputFile)) {
         $header_values = $rows = [];
         foreach ($xlsx->rows() as $k => $r) {
             if ($k === 0) {
@@ -106,20 +106,6 @@ function makeOffer($rows, $offer, $creationDate)
         $offer .= '<unit>' . $row['unit-living-space'] . '</unit>' . "\r\n";
         $offer .= '</living-space>' . "\r\n";
         // inner elements living-space end
-    
-        // inner elements kitchen-space start
-        $offer .= '<kitchen-space>' . "\r\n";
-        $offer .= '<value>' . $row['value-kitchen-space'] . '</value>' . "\r\n";
-        $offer .= '<unit>' . $row['unit-kitchen-space'] . '</unit>' . "\r\n";
-        $offer .= '</kitchen-space>' . "\r\n";
-        // inner elements kitchen-space end
-    
-        // inner elements room-space start
-        $offer .= '<room-space>' . "\r\n";
-        $offer .= '<value>' . $row['value-room-space'] . '</value>' . "\r\n";
-        $offer .= '<unit>' . $row['unit-room-space'] . '</unit>' . "\r\n";
-        $offer .= '</room-space>' . "\r\n";
-        // inner elements room-space end
     
         $offer .= '</offer>' . "\r\n";
     }

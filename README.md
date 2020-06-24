@@ -1,5 +1,8 @@
 # CLI utility - feedCreator
-### helps generate xml feed file from .xlsx file type for classified advertisements website like realty.yandex.ru 
+This project helps me generate xml feed file from .xlsx file type.
+Then this feed goes to web and parsed by realty.yandex.ru and other classified advertisements website.
+
+Still in progress...
 
 ## Installation
 ```bash

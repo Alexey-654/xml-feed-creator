@@ -1,5 +1,5 @@
 {
-    "name": "alexey/feedcreator",
+    "name": "alexey/feed-creator",
     "description": "Create xml feed for realty.yandex.ru",
     "type": "project",
     "require": {
@@ -16,11 +16,8 @@
     ],
     "autoload": {
         "files": [
-            "src/feedCreator.php"
-        ],
-        "psr-4": {
-            "feedCreator\\": "src"
-          }
+            "src/FeedCreator.php"
+        ]
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.5"

@@ -10,8 +10,8 @@ const XML_INFO = <<<XMLINFO
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
 XMLINFO;
 
-const FOOTER = "</realty-feed>";
-const PATH_TO_OUTPUT_FILE = __DIR__ . '/../outputFiles/feed.xml';
+const FOOTER = '</realty-feed>';
+const PATH_TO_OUTPUT_FILE = __DIR__ . '/../output-files/feed.xml';
 
 
 function createFeed(string $inputFile, string $pathToOutputFile = PATH_TO_OUTPUT_FILE): void
@@ -103,8 +103,18 @@ function makeOffer(array $rows, string $creationDate, string $offer = ''): strin
             $offer .= '<yandex-house-id>' . $row['yandex-house-id'] . '</yandex-house-id>' . "\r\n";
             $offer .= '<building-state>' . $row['building-state'] . '</building-state>' . "\r\n";
             $offer .= '<ready-quarter>' . $row['ready-quarter'] . '</ready-quarter>' . "\r\n";
+
+            // images start
             $offer .= '<image>' . $row['image1'] . '</image>' . "\r\n";
-        
+            $offer .= '<image>' . $row['image2'] . '</image>' . "\r\n";
+            $offer .= '<image>' . $row['image3'] . '</image>' . "\r\n";
+            $offer .= '<image>' . $row['image4'] . '</image>' . "\r\n";
+            $offer .= '<image>' . $row['image5'] . '</image>' . "\r\n";
+            $offer .= '<image>' . $row['image6'] . '</image>' . "\r\n";
+            $offer .= '<image>' . $row['image7'] . '</image>' . "\r\n";
+            $offer .= '<image>' . $row['image8'] . '</image>' . "\r\n";
+            // images end
+            
             // inner elements area start
             $offer .= '<area>' . "\r\n";
             $offer .= '<value>' . $row['value_area'] . '</value>' . "\r\n";

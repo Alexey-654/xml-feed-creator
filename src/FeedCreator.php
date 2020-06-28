@@ -14,6 +14,7 @@ const FOOTER = '</realty-feed>';
 const CREATION_DATE = '2020-06-21T00:00:00+03:00';
 const PATH_TO_OUTPUT_FILE = __DIR__ . '/../output-files/feed.xml';
 
+
 function createFeed(string $inputFile, string $pathToOutputFile = PATH_TO_OUTPUT_FILE): void
 {
     $rows = parsExcel($inputFile);
@@ -33,16 +34,15 @@ function createFeed(string $inputFile, string $pathToOutputFile = PATH_TO_OUTPUT
 
 function parsExcel(string $inputFile): array
 {
-    if ($xlsx = SimpleXLSX::parse($inputFile)) {
-        $headerValues = [];
-        $rows = [];
-        foreach ($xlsx->rows() as $key => $row) {
-            if ($key === 0) {
-                $headerValues = $row;
-                continue;
-            }
-            $rows[] = array_combine($headerValues, $row);
+    $headerValues = [];
+    $rows = [];
+    $xlsx = SimpleXLSX::parse($inputFile);
+    foreach ($xlsx->rows() as $key => $row) {
+        if ($key === 0) {
+            $headerValues = $row;
+            continue;
         }
+        $rows[] = array_combine($headerValues, $row);
     }
     
     return $rows;
@@ -86,11 +86,9 @@ function makeOffer(array $rows, string $creationDate, string $offer = ''): strin
             $offer .= '</sales-agent>' . "\n";
             // inner elements sales-agent end
 
-            if (!empty($row['rooms'])) {
-                $offer .= '<rooms>' . $row['rooms'] . '</rooms>' . "\n";
-            } else {
-                $offer .= '<studio>' . $row['studio'] . '</studio>' . "\n";
-            }
+            $offer .= (empty($row['rooms']))
+                    ? '<studio>' . $row['studio'] . '</studio>' . "\n"
+                    : '<rooms>' . $row['rooms'] . '</rooms>' . "\n";
 
             $offer .= '<new-flat>' . $row['new-flat'] . '</new-flat>' . "\n";
             $offer .= '<bathroom-unit>' . $row['bathroom-unit'] . '</bathroom-unit>' . "\n";

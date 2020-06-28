@@ -11,23 +11,22 @@ const XML_INFO = <<<XMLINFO
 XMLINFO;
 
 const FOOTER = '</realty-feed>';
+const CREATION_DATE = '2020-06-21T00:00:00+03:00';
 const PATH_TO_OUTPUT_FILE = __DIR__ . '/../output-files/feed.xml';
-
 
 function createFeed(string $inputFile, string $pathToOutputFile = PATH_TO_OUTPUT_FILE): void
 {
     $rows = parsExcel($inputFile);
     $now = Carbon::now()->toW3cString();
-    $creationDate = Carbon::create(2020, 6, 21)->toW3cString();
-    $genDate = "\n<generation-date>{$now}</generation-date>" . "\r\n";
+    $genDate = "\n<generation-date>{$now}</generation-date>" . "\n";
     $header = XML_INFO . $genDate;
 
-    $offer = makeOffer($rows, $creationDate);
+    $offer = makeOffer($rows, CREATION_DATE);
     $resultFeed = $header . $offer . FOOTER;
     $outputFile = file_put_contents($pathToOutputFile, $resultFeed);
 
     if ($outputFile !== false) {
-        echo "Your XML file have been successfully generated. \nLook up here - " . $pathToOutputFile . "\n\n";
+        echo "Your XML file have been successfully generated. \nLook up here - " . realpath($pathToOutputFile) . "\n\n";
     }
 }
 
@@ -54,82 +53,82 @@ function makeOffer(array $rows, string $creationDate, string $offer = ''): strin
 {
     foreach ($rows as $row) {
         if ($row['status'] === 'В продаже') {
-            $offer .= '<offer internal-id="' . $row['offer id'] . '">' . "\r\n";
-            $offer .= '<type>' . $row['type'] . '</type>' . "\r\n";
-            $offer .= '<property-type>' . $row['property-type'] . '</property-type>' . "\r\n";
-            $offer .= '<category>' . $row['category flat'] . '</category>' . "\r\n";
-            $offer .= '<creation-date>' . $creationDate . '</creation-date>' . "\r\n";
+            $offer .= '<offer internal-id="' . $row['offer id'] . '">' . "\n";
+            $offer .= '<type>' . $row['type'] . '</type>' . "\n";
+            $offer .= '<property-type>' . $row['property-type'] . '</property-type>' . "\n";
+            $offer .= '<category>' . $row['category flat'] . '</category>' . "\n";
+            $offer .= '<creation-date>' . $creationDate . '</creation-date>' . "\n";
         
             // inner elements location start
-            $offer .= '<location>' . "\r\n";
-            $offer .= '<country>' . $row['country'] . '</country>' . "\r\n";
-            $offer .= '<locality-name>' . $row['locality-name'] . '</locality-name>' . "\r\n";
-            $offer .= '<address>' . $row['address'] . '</address>' . "\r\n";
-            $offer .= '</location>' . "\r\n";
+            $offer .= '<location>' . "\n";
+            $offer .= '<country>' . $row['country'] . '</country>' . "\n";
+            $offer .= '<locality-name>' . $row['locality-name'] . '</locality-name>' . "\n";
+            $offer .= '<address>' . $row['address'] . '</address>' . "\n";
+            $offer .= '</location>' . "\n";
             // inner elements location end
         
-            $offer .= '<deal-status>' . $row['deal-status'] . '</deal-status>' . "\r\n";
+            $offer .= '<deal-status>' . $row['deal-status'] . '</deal-status>' . "\n";
         
             // inner elements price start
-            $offer .= '<price>' . "\r\n";
-            $offer .= '<value>' . $row['value'] . '</value>' . "\r\n";
-            $offer .= '<currency>' . $row['currency'] . '</currency>' . "\r\n";
-            $offer .= '</price>' . "\r\n";
+            $offer .= '<price>' . "\n";
+            $offer .= '<value>' . $row['value'] . '</value>' . "\n";
+            $offer .= '<currency>' . $row['currency'] . '</currency>' . "\n";
+            $offer .= '</price>' . "\n";
             // inner elements price end
         
             // inner elements sales-agent start
-            $offer .= '<sales-agent>' . "\r\n";
-            $offer .= '<phone>' . $row['phone'] . '</phone>' . "\r\n";
-            $offer .= '<organization>' . $row['organization'] . '</organization>' . "\r\n";
-            $offer .= '<url>' . $row['url'] . '</url>' . "\r\n";
-            $offer .= '<category>' . $row['category'] . '</category>' . "\r\n";
-            $offer .= '<photo>' . $row['photo'] . '</photo>' . "\r\n";
-            $offer .= '</sales-agent>' . "\r\n";
+            $offer .= '<sales-agent>' . "\n";
+            $offer .= '<phone>' . $row['phone'] . '</phone>' . "\n";
+            $offer .= '<organization>' . $row['organization'] . '</organization>' . "\n";
+            $offer .= '<url>' . $row['url'] . '</url>' . "\n";
+            $offer .= '<category>' . $row['category'] . '</category>' . "\n";
+            $offer .= '<photo>' . $row['photo'] . '</photo>' . "\n";
+            $offer .= '</sales-agent>' . "\n";
             // inner elements sales-agent end
 
             if (!empty($row['rooms'])) {
-                $offer .= '<rooms>' . $row['rooms'] . '</rooms>' . "\r\n";
+                $offer .= '<rooms>' . $row['rooms'] . '</rooms>' . "\n";
             } else {
-                $offer .= '<studio>' . $row['studio'] . '</studio>' . "\r\n";
+                $offer .= '<studio>' . $row['studio'] . '</studio>' . "\n";
             }
 
-            $offer .= '<new-flat>' . $row['new-flat'] . '</new-flat>' . "\r\n";
-            $offer .= '<bathroom-unit>' . $row['bathroom-unit'] . '</bathroom-unit>' . "\r\n";
-            $offer .= '<balcony>' . $row['balcony'] . '</balcony>' . "\r\n";
-            $offer .= '<floor>' . $row['floor'] . '</floor>' . "\r\n";
-            $offer .= '<floors-total>' . $row['floors-total'] . '</floors-total>' . "\r\n";
-            $offer .= '<building-name>' . $row['building-name'] . '</building-name>' . "\r\n";
-            $offer .= '<yandex-building-id>' . $row['yandex-building-id'] . '</yandex-building-id>' . "\r\n";
-            $offer .= '<yandex-house-id>' . $row['yandex-house-id'] . '</yandex-house-id>' . "\r\n";
-            $offer .= '<building-state>' . $row['building-state'] . '</building-state>' . "\r\n";
-            $offer .= '<ready-quarter>' . $row['ready-quarter'] . '</ready-quarter>' . "\r\n";
+            $offer .= '<new-flat>' . $row['new-flat'] . '</new-flat>' . "\n";
+            $offer .= '<bathroom-unit>' . $row['bathroom-unit'] . '</bathroom-unit>' . "\n";
+            $offer .= '<balcony>' . $row['balcony'] . '</balcony>' . "\n";
+            $offer .= '<floor>' . $row['floor'] . '</floor>' . "\n";
+            $offer .= '<floors-total>' . $row['floors-total'] . '</floors-total>' . "\n";
+            $offer .= '<building-name>' . $row['building-name'] . '</building-name>' . "\n";
+            $offer .= '<yandex-building-id>' . $row['yandex-building-id'] . '</yandex-building-id>' . "\n";
+            $offer .= '<yandex-house-id>' . $row['yandex-house-id'] . '</yandex-house-id>' . "\n";
+            $offer .= '<building-state>' . $row['building-state'] . '</building-state>' . "\n";
+            $offer .= '<ready-quarter>' . $row['ready-quarter'] . '</ready-quarter>' . "\n";
 
             // images start
-            $offer .= '<image>' . $row['image1'] . '</image>' . "\r\n";
-            $offer .= '<image>' . $row['image2'] . '</image>' . "\r\n";
-            $offer .= '<image>' . $row['image3'] . '</image>' . "\r\n";
-            $offer .= '<image>' . $row['image4'] . '</image>' . "\r\n";
-            $offer .= '<image>' . $row['image5'] . '</image>' . "\r\n";
-            $offer .= '<image>' . $row['image6'] . '</image>' . "\r\n";
-            $offer .= '<image>' . $row['image7'] . '</image>' . "\r\n";
-            $offer .= '<image>' . $row['image8'] . '</image>' . "\r\n";
+            $offer .= '<image>' . $row['image1'] . '</image>' . "\n";
+            $offer .= '<image>' . $row['image2'] . '</image>' . "\n";
+            $offer .= '<image>' . $row['image3'] . '</image>' . "\n";
+            $offer .= '<image>' . $row['image4'] . '</image>' . "\n";
+            $offer .= '<image>' . $row['image5'] . '</image>' . "\n";
+            $offer .= '<image>' . $row['image6'] . '</image>' . "\n";
+            $offer .= '<image>' . $row['image7'] . '</image>' . "\n";
+            $offer .= '<image>' . $row['image8'] . '</image>' . "\n";
             // images end
             
             // inner elements area start
-            $offer .= '<area>' . "\r\n";
-            $offer .= '<value>' . $row['value_area'] . '</value>' . "\r\n";
-            $offer .= '<unit>' . $row['unit_area'] . '</unit>' . "\r\n";
-            $offer .= '</area>' . "\r\n";
+            $offer .= '<area>' . "\n";
+            $offer .= '<value>' . $row['value_area'] . '</value>' . "\n";
+            $offer .= '<unit>' . $row['unit_area'] . '</unit>' . "\n";
+            $offer .= '</area>' . "\n";
             // inner elements area end
         
             // inner elements living-space start
-            $offer .= '<living-space>' . "\r\n";
-            $offer .= '<value>' . $row['value-living-space'] . '</value>' . "\r\n";
-            $offer .= '<unit>' . $row['unit-living-space'] . '</unit>' . "\r\n";
-            $offer .= '</living-space>' . "\r\n";
+            $offer .= '<living-space>' . "\n";
+            $offer .= '<value>' . $row['value-living-space'] . '</value>' . "\n";
+            $offer .= '<unit>' . $row['unit-living-space'] . '</unit>' . "\n";
+            $offer .= '</living-space>' . "\n";
             // inner elements living-space end
         
-            $offer .= '</offer>' . "\r\n";
+            $offer .= '</offer>' . "\n";
         }
     }
 

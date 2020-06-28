@@ -14,11 +14,12 @@ if (file_exists($autoloadPath1)) {
 
 
 $doc = <<<'DOC'
-Create xml feed from xlsx file type for Realty.Yandex
+Generate xml file feed from input xlsx file type. 
+XML feed structure made for Realty.Yandex. Just put in Excel file your data and you ready to go.
 
 Usage:
   xmlfeed (-h|--help)
-  xmlfeed <inputFile> <outputFile>
+  xmlfeed <pathToInputFile> [<pathToOutputFile>]
 
 Options:
   -h --help                     Show this screen
@@ -26,4 +27,9 @@ DOC;
 
 $args = Docopt::handle($doc);
 
-createFeed($args["<inputFile>"], $args["<outputFile>"]);
+
+if (empty($args["<pathToOutputFile>"])) {
+    createFeed($args["<pathToInputFile>"]);
+} else {
+    createFeed($args["<pathToInputFile>"], $args["<pathToOutputFile>"]);
+}

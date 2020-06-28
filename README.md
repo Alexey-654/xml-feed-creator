@@ -1,16 +1,21 @@
-# CLI utility - feedCreator
-This project helps me generate xml feed file from .xlsx file type.
-Then this feed goes to web and parsed by realty.yandex.ru and other classified advertisements website.
+# CLI utility - xml-feed-creator
 
-Still in progress...
+[![Maintainability](https://api.codeclimate.com/v1/badges/f0a93a4dd66185e09eaf/maintainability)](https://codeclimate.com/github/Alexey-654/xml-feed-creator/maintainability)
+
+This project helps generate xml file from xlsx file type.
+Then this xml-feed goes to web and parsed by realty.yandex.ru and other classified advertisements website.
+
 
 ## Installation
 ```bash
-$ composer require alexey-654/xml-feed-creator
+$ git clone https://github.com/Alexey-654/xml-feed-creator.git
+$ cd xml-feed-creator
+$ make install
 ```
 
 ## Usage
 In your terminal go to the directory with installed package, then type:
 ```bash
-$ bin/xmlfeed pathToInputFile pathToOutputFile
+$ bin/xmlfeed <pathToInputFile> [<pathToOutputFile>]
 ```
+

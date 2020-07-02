@@ -98,6 +98,7 @@ function makeOffer(array $rows, string $creationDate, string $offer = ''): strin
             $offer .= '<building-name>' . $row['building-name'] . '</building-name>' . "\n";
             $offer .= '<yandex-building-id>' . $row['yandex-building-id'] . '</yandex-building-id>' . "\n";
             $offer .= '<yandex-house-id>' . $row['yandex-house-id'] . '</yandex-house-id>' . "\n";
+            $offer .= '<building-section>' . $row['building-section'] . '</building-section>' . "\n";
             $offer .= '<building-state>' . $row['building-state'] . '</building-state>' . "\n";
             $offer .= '<ready-quarter>' . $row['ready-quarter'] . '</ready-quarter>' . "\n";
             $offer .= '<built-year>' . $row['built-year'] . '</built-year>' . "\n";

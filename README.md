@@ -14,8 +14,13 @@ $ make install
 ```
 
 ## Usage
-In your terminal go to the directory with installed package, then type:
+In your Unix terminal go to the directory with installed package, then type:
 ```bash
 $ bin/xmlfeed <pathToInputFile> [<pathToOutputFile>]
 ```
 
+On Windows in your shell type -
+```bash
+$ php .\bin\xmlfeed .\sample-data\InputData.xlsx
+```
+ 

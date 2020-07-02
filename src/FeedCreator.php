@@ -100,7 +100,8 @@ function makeOffer(array $rows, string $creationDate, string $offer = ''): strin
             $offer .= '<yandex-house-id>' . $row['yandex-house-id'] . '</yandex-house-id>' . "\n";
             $offer .= '<building-state>' . $row['building-state'] . '</building-state>' . "\n";
             $offer .= '<ready-quarter>' . $row['ready-quarter'] . '</ready-quarter>' . "\n";
-
+            $offer .= '<built-year>' . $row['built-year'] . '</built-year>' . "\n";
+            
             // images start
             $offer .= '<image>' . $row['image1'] . '</image>' . "\n";
             $offer .= '<image>' . $row['image2'] . '</image>' . "\n";

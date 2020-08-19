@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-<generation-date>2020-07-02T13:51:16+00:00</generation-date>
+<generation-date>2020-08-19T09:46:23+00:00</generation-date>
 <offer internal-id="14_20">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -13,7 +13,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2035600</value>
+<value>2071950</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -65,7 +65,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2012640</value>
+<value>2048580</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -117,7 +117,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2962400</value>
+<value>3015300</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -169,7 +169,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1947000</value>
+<value>2017800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -273,7 +273,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1999250</value>
+<value>2035600</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -310,58 +310,6 @@
 </area>
 <living-space>
 <value>15.62</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="14_35">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1911600</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>4</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544711</yandex-house-id>
-<building-section>литер 14</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l14/35,4.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>36.35</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>15.82</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -429,7 +377,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1962900</value>
+<value>1999250</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -466,6 +414,58 @@
 </area>
 <living-space>
 <value>15.62</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
+<offer internal-id="14_42">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>2855440</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>2</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>6</floor>
+<floors-total>8</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544711</yandex-house-id>
+<building-section>литер 14</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>2</ready-quarter>
+<built-year>2021</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l14/50,99.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>50.99</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>28.43</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -533,7 +533,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1926550</value>
+<value>1962900</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -585,7 +585,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1940760</value>
+<value>1976700</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -637,7 +637,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2909500</value>
+<value>2962400</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -741,7 +741,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2012640</value>
+<value>2048580</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -793,7 +793,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1947000</value>
+<value>2053200</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -830,6 +830,58 @@
 </area>
 <living-space>
 <value>15.82</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
+<offer internal-id="14_52">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>2829945</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>2</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>7</floor>
+<floors-total>8</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544711</yandex-house-id>
+<building-section>литер 14</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>2</ready-quarter>
+<built-year>2021</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l14/50,99.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>50.99</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>28.43</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -989,58 +1041,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="13_6">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1276000</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<studio>1</studio>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>2</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544707</yandex-house-id>
-<building-section>литер 13</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l13/23,2.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>23.2</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>13.2</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="13_10">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -1105,7 +1105,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1976700</value>
+<value>2048580</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -1157,7 +1157,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2856600</value>
+<value>2962400</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -1209,7 +1209,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1982400</value>
+<value>2017800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -1313,7 +1313,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2155740</value>
+<value>2193560</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -1365,7 +1365,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2035600</value>
+<value>2071950</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -1417,7 +1417,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2856600</value>
+<value>2962400</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -1469,7 +1469,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1982400</value>
+<value>2017800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -1625,7 +1625,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2117920</value>
+<value>2155740</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -1677,7 +1677,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2035600</value>
+<value>2071950</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -1729,7 +1729,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1976700</value>
+<value>2012640</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -1873,110 +1873,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="13_43">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1940760</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>6</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544707</yandex-house-id>
-<building-section>литер 13</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l13/35,94.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>35.94</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>15.86</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="13_44">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2803700</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>6</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544707</yandex-house-id>
-<building-section>литер 13</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l13/52,9.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>52.9</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>29.34</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="13_46">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -2093,7 +1989,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2803700</value>
+<value>2856600</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -2145,7 +2041,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1911600</value>
+<value>1947000</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -2249,7 +2145,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1276000</value>
+<value>1299200</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -2497,58 +2393,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="13_74">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1372560</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<studio>1</studio>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>2</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544707</yandex-house-id>
-<building-section>литер 13</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l13/24,51.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>24.51</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>14.98</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="13_78">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -2561,7 +2405,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1904820</value>
+<value>2048580</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -2873,7 +2717,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1400000</value>
+<value>1450000</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -2925,7 +2769,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2856600</value>
+<value>2962400</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -2977,7 +2821,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1940760</value>
+<value>2120460</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -3237,7 +3081,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2155740</value>
+<value>2231380</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -3549,7 +3393,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2803700</value>
+<value>2909500</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -3797,110 +3641,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="13_117">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2803700</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>6</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544707</yandex-house-id>
-<building-section>литер 13</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l13/52,9.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>52.9</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>29.34</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="13_119">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3008410</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>6</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544707</yandex-house-id>
-<building-section>литер 13</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l13/50,99.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>50.99</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>28.43</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="13_120">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -4017,7 +3757,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1400000</value>
+<value>1421580</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -4069,7 +3809,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2803700</value>
+<value>2909500</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -4106,58 +3846,6 @@
 </area>
 <living-space>
 <value>29.34</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="13_129">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3008410</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>7</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544707</yandex-house-id>
-<building-section>литер 13</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l13/50,99.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>50.99</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>28.43</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -4589,7 +4277,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3178760</value>
+<value>3239890</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -4641,7 +4329,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>4184880</value>
+<value>4342800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -4745,7 +4433,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2856000</value>
+<value>2937600</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -4797,7 +4485,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3301020</value>
+<value>3423280</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -4901,7 +4589,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2069100</value>
+<value>2105400</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -4953,7 +4641,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2964800</value>
+<value>3100800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5057,7 +4745,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3627120</value>
+<value>3821430</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5109,7 +4797,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2350110</value>
+<value>2432570</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5161,7 +4849,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3239890</value>
+<value>3423280</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5265,7 +4953,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2032800</value>
+<value>2069100</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5305,7 +4993,7 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="6_21">
+<offer internal-id="6_23">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>квартира</category>
@@ -5317,7 +5005,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2883200</value>
+<value>3756660</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5340,7 +5028,7 @@
 <building-state>unfinished</building-state>
 <ready-quarter>2</ready-quarter>
 <built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l6/54,4.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l6/64,77.png</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
@@ -5349,11 +5037,11 @@
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
 <area>
-<value>54.4</value>
+<value>64.77</value>
 <unit>кв. м</unit>
 </area>
 <living-space>
-<value>31.11</value>
+<value>34.88</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -5369,7 +5057,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3178760</value>
+<value>3362150</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5409,6 +5097,58 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
+<offer internal-id="6_39">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>3691890</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>2</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>6</floor>
+<floors-total>8</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544679</yandex-house-id>
+<building-section>литер 6</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>2</ready-quarter>
+<built-year>2021</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l6/64,77.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>64.77</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>34.88</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
 <offer internal-id="6_49">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -5421,7 +5161,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3087065</value>
+<value>3301020</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5473,7 +5213,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>4263840</value>
+<value>4342800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5525,7 +5265,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2164575</value>
+<value>2267650</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5577,7 +5317,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2185190</value>
+<value>2226420</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5629,7 +5369,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3432810</value>
+<value>3562350</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5669,6 +5409,58 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
+<offer internal-id="6_59">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>2399650</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>1</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>2</floor>
+<floors-total>8</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544679</yandex-house-id>
+<building-section>литер 6</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>2</ready-quarter>
+<built-year>2021</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l6/43,63.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>43.63</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>20.4</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
 <offer internal-id="6_60">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -5681,7 +5473,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2937600</value>
+<value>3100800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5733,7 +5525,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2010800</value>
+<value>2083920</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5837,7 +5629,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3087065</value>
+<value>3178760</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5889,7 +5681,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2267650</value>
+<value>2308880</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5941,7 +5733,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3627120</value>
+<value>3756660</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -5993,7 +5785,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3046400</value>
+<value>3155200</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6045,7 +5837,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3178760</value>
+<value>3423280</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6097,7 +5889,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2226420</value>
+<value>2308880</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6149,7 +5941,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3178760</value>
+<value>3423280</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6253,7 +6045,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3117630</value>
+<value>3362150</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6357,7 +6149,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3117630</value>
+<value>3362150</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6449,6 +6241,58 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
+<offer internal-id="6_104">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>3301020</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>2</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>7</floor>
+<floors-total>8</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544679</yandex-house-id>
+<building-section>литер 6</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>2</ready-quarter>
+<built-year>2021</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l6/61,13.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>61.13</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>33.92</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
 <offer internal-id="6_111">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -6513,7 +6357,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3087065</value>
+<value>3178760</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6553,58 +6397,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="7_169">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2440620</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>4</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544683</yandex-house-id>
-<building-section>литер 7</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l7/41,72.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>41.72</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>16.75</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="7_1">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -6617,7 +6409,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2438460</value>
+<value>2481240</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6669,7 +6461,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3487490</value>
+<value>3546600</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6773,7 +6565,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3435340</value>
+<value>3494570</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6877,7 +6669,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3328800</value>
+<value>3387200</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6929,7 +6721,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3376110</value>
+<value>3435340</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -6981,7 +6773,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3304950</value>
+<value>3425130</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7033,7 +6825,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3304950</value>
+<value>3365040</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7073,6 +6865,58 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
+<offer internal-id="7_76">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>4024200</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>3</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>12</floor>
+<floors-total>12</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544683</yandex-house-id>
+<building-section>литер 7</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>4</ready-quarter>
+<built-year>2020</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l7/70,6.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>70.6</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>44.79</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
 <offer internal-id="7_77">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -7085,7 +6929,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3304950</value>
+<value>3365040</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7125,58 +6969,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="7_81">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3241200</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>2</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544683</yandex-house-id>
-<building-section>литер 7</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l7/58,4.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>58.4</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>31.97</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="7_83">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -7189,7 +6981,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>4159290</value>
+<value>4232260</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7229,6 +7021,58 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
+<offer internal-id="7_88">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>3387200</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>2</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>3</floor>
+<floors-total>12</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544683</yandex-house-id>
+<building-section>литер 7</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>4</ready-quarter>
+<built-year>2020</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l7/58,4.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>58.4</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>31.97</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
 <offer internal-id="7_91">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -7241,7 +7085,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3295740</value>
+<value>3411380</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7333,6 +7177,58 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
+<offer internal-id="7_93">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>3428380</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>2</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>4</floor>
+<floors-total>12</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544683</yandex-house-id>
+<building-section>литер 7</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>4</ready-quarter>
+<built-year>2020</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l7/59,11.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>59.11</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>17.55</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
 <offer internal-id="7_98">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -7345,7 +7241,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3295740</value>
+<value>3353560</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7449,7 +7345,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3299600</value>
+<value>3387200</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7605,7 +7501,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3299600</value>
+<value>3328800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7657,7 +7553,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3237920</value>
+<value>3295740</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7694,58 +7590,6 @@
 </area>
 <living-space>
 <value>31.64</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="7_146">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>4159290</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>3</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>11</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544683</yandex-house-id>
-<building-section>литер 7</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l7/72,97.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>72.97</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>44.79</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -7813,7 +7657,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3237920</value>
+<value>3295740</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7865,7 +7709,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2440620</value>
+<value>2461480</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7917,7 +7761,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3485720</value>
+<value>3544800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -7969,7 +7813,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3295740</value>
+<value>3411380</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8073,7 +7917,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3295740</value>
+<value>3411380</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8125,7 +7969,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3426640</value>
+<value>3485720</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8177,7 +8021,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3237920</value>
+<value>3353560</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8217,58 +8061,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="7_217">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3237920</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>10</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544683</yandex-house-id>
-<building-section>литер 7</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l7/57,82.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>57.82</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>31.64</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="7_231">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -8281,7 +8073,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3237920</value>
+<value>3295740</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8333,7 +8125,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3532860</value>
+<value>3594840</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8385,7 +8177,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3270400</value>
+<value>3328800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8437,7 +8229,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3237920</value>
+<value>3295740</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8489,7 +8281,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2419760</value>
+<value>2461480</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8541,7 +8333,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3594840</value>
+<value>3656820</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8593,7 +8385,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3299600</value>
+<value>3387200</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8697,7 +8489,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3295740</value>
+<value>3411380</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8737,58 +8529,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="7_246">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2419760</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>4</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544683</yandex-house-id>
-<building-section>литер 7</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l7/41,72.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>41.72</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>16.75</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="7_249">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -8801,7 +8541,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3299600</value>
+<value>3387200</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8853,7 +8593,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3295740</value>
+<value>3411380</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -8893,58 +8633,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="7_253">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2419760</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>5</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544683</yandex-house-id>
-<building-section>литер 7</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l7/41,72.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>41.72</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>16.75</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="7_259">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -8957,7 +8645,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3295740</value>
+<value>3353560</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9165,7 +8853,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3237920</value>
+<value>3295740</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9205,58 +8893,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="7_300">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>4159290</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>3</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>11</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544683</yandex-house-id>
-<building-section>литер 7</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l7/72,97.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>72.97</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>44.79</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="7_303">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -9269,7 +8905,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3501870</value>
+<value>3594840</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9373,7 +9009,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3056500</value>
+<value>3178760</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9425,7 +9061,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>4184880</value>
+<value>4421760</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9477,7 +9113,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2032800</value>
+<value>2069100</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9529,7 +9165,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1974240</value>
+<value>2010800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9581,7 +9217,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2883200</value>
+<value>2992000</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9685,7 +9321,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2205805</value>
+<value>2267650</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9737,7 +9373,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3239890</value>
+<value>3423280</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9841,7 +9477,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2010800</value>
+<value>2083920</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9893,7 +9529,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3046400</value>
+<value>3155200</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9945,7 +9581,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3886200</value>
+<value>3756660</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -9997,7 +9633,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2308880</value>
+<value>2391340</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10049,7 +9685,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3239890</value>
+<value>3423280</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10089,110 +9725,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="9_18">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>4737600</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>3</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>4</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544691</yandex-house-id>
-<building-section>литер 9</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/78,96.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>78.96</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>46.17</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="9_21">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2937600</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>4</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544691</yandex-house-id>
-<building-section>литер 9</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/54,4.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>54.4</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>31.11</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="9_23">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -10205,7 +9737,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3335655</value>
+<value>3627120</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10257,7 +9789,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3178760</value>
+<value>3362150</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10309,7 +9841,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3178760</value>
+<value>3301020</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10361,7 +9893,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3056500</value>
+<value>3239890</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10413,7 +9945,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>4263840</value>
+<value>4421760</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10465,7 +9997,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2883200</value>
+<value>2992000</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10569,7 +10101,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2300940</value>
+<value>2343550</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10673,7 +10205,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3492180</value>
+<value>3552390</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10829,7 +10361,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2422500</value>
+<value>2465000</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10921,6 +10453,58 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
+<offer internal-id="9_71">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>2386160</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>1</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>3</floor>
+<floors-total>8</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544691</yandex-house-id>
+<building-section>литер 9</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>2</ready-quarter>
+<built-year>2021</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/42,61.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>42.61</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>20.23</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
 <offer internal-id="9_74">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -10933,7 +10517,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1995570</value>
+<value>2030580</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -10970,6 +10554,58 @@
 </area>
 <living-space>
 <value>15.85</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
+<offer internal-id="9_76">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>2233840</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>1</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>4</floor>
+<floors-total>8</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544691</yandex-house-id>
+<building-section>литер 9</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>2</ready-quarter>
+<built-year>2021</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/39,89.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>39.89</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>17.94</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -11037,7 +10673,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2428770</value>
+<value>2386160</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -11141,7 +10777,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2134115</value>
+<value>2193950</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -11233,58 +10869,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="9_121">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3130920</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>2</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544691</yandex-house-id>
-<building-section>литер 9</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/60,21.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>60.21</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>30.99</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="9_122">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -11349,7 +10933,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2300940</value>
+<value>2343550</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -11401,7 +10985,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2741760</value>
+<value>2790720</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -11505,7 +11089,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2252500</value>
+<value>2422500</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -11557,7 +11141,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2193950</value>
+<value>2233840</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -11609,7 +11193,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2386160</value>
+<value>2428770</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -11661,7 +11245,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2233840</value>
+<value>2313620</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -11713,7 +11297,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1357020</value>
+<value>1378560</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -11805,162 +11389,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="9_144">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2422500</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>4</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544691</yandex-house-id>
-<building-section>литер 9</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/42,5.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>42.5</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>16.92</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="9_146">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1335480</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<studio>1</studio>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>4</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544691</yandex-house-id>
-<building-section>литер 9</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/21,54.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>21.54</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>12.81</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="9_155">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1335480</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<studio>1</studio>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>5</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544691</yandex-house-id>
-<building-section>литер 9</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/21,54.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>21.54</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>12.81</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="9_174">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -11973,7 +11401,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1960560</value>
+<value>1995570</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12025,7 +11453,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3130920</value>
+<value>3371760</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12129,7 +11557,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2279635</value>
+<value>2343550</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12181,7 +11609,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2114170</value>
+<value>2233840</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12233,7 +11661,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2267650</value>
+<value>2329495</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12285,7 +11713,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2443280</value>
+<value>2486910</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12337,7 +11765,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1937680</value>
+<value>2010800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12389,7 +11817,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>4184880</value>
+<value>4263840</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12441,7 +11869,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3301020</value>
+<value>3362150</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12493,7 +11921,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3627120</value>
+<value>3691890</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12530,58 +11958,6 @@
 </area>
 <living-space>
 <value>34.88</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="9_193">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2486910</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>3</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544691</yandex-house-id>
-<building-section>литер 9</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/43,63.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>43.63</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>20.4</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -12634,58 +12010,6 @@
 </area>
 <living-space>
 <value>31.11</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="9_196">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2014650</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>3</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544691</yandex-house-id>
-<building-section>литер 9</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/36,3.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>36.3</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>16.18</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -12753,7 +12077,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3627120</value>
+<value>3659505</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12909,7 +12233,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3423280</value>
+<value>3484410</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -12946,58 +12270,6 @@
 </area>
 <living-space>
 <value>33.92</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="9_223">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2308880</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>7</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544691</yandex-house-id>
-<building-section>литер 9</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/41,23.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>41.23</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>14.24</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -13065,7 +12337,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2267650</value>
+<value>2329495</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -13117,7 +12389,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2312390</value>
+<value>2486910</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -13157,58 +12429,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="9_235">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1937680</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>8</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544691</yandex-house-id>
-<building-section>литер 9</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l9/36,56.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>36.56</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>16.82</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="9_237">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -13221,7 +12441,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>4263840</value>
+<value>4342800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -13365,214 +12585,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="10_14">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1945980</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>3</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/34,14.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>34.14</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>13.33</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_23">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1945980</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>4</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/34,14.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>34.14</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>13.33</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_32">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1945980</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>5</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/34,14.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>34.14</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>13.33</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_40">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1864120</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>6</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/32,14.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>32.14</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>12.25</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="10_42">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -13689,7 +12701,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1864120</value>
+<value>1896260</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -14041,58 +13053,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="10_75">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1340975</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<studio>1</studio>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>10</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/21,95.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>21.95</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>15.86</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="10_77">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -14105,7 +13065,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1911840</value>
+<value>1980120</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -14142,58 +13102,6 @@
 </area>
 <living-space>
 <value>13.33</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_83">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3756870</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>3</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>11</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/65,91.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>65.91</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>37.21</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -14261,7 +13169,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1799840</value>
+<value>1848050</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -14509,6 +13417,58 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
+<offer internal-id="10_141">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>1896260</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>1</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>6</floor>
+<floors-total>12</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544695</yandex-house-id>
+<building-section>литер 10</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>4</ready-quarter>
+<built-year>2020</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/32,14.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>32.14</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>12.25</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
 <offer internal-id="10_148">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -14677,7 +13637,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1911840</value>
+<value>1980120</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -14714,58 +13674,6 @@
 </area>
 <living-space>
 <value>13.33</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_165">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1802970</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>9</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/30,82.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>30.82</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>12.38</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -14833,7 +13741,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1911840</value>
+<value>1963050</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -14885,7 +13793,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1864120</value>
+<value>1896260</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -14925,58 +13833,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="10_176">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1877700</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>10</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/34,14.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>34.14</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>13.33</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="10_179">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -14989,7 +13845,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3822780</value>
+<value>3888690</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -15029,7 +13885,7 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="10_185">
+<offer internal-id="10_186">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>квартира</category>
@@ -15041,7 +13897,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1877700</value>
+<value>1864120</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -15064,7 +13920,7 @@
 <building-state>unfinished</building-state>
 <ready-quarter>4</ready-quarter>
 <built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/34,14.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/32,14.png</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
@@ -15073,15 +13929,67 @@
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
 <area>
-<value>34.14</value>
+<value>32.14</value>
 <unit>кв. м</unit>
 </area>
 <living-space>
-<value>13.33</value>
+<value>12.25</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="10_186">
+<offer internal-id="10_192">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>1787560</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>1</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>12</floor>
+<floors-total>12</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544695</yandex-house-id>
+<building-section>литер 10</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>4</ready-quarter>
+<built-year>2020</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/30,82.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>30.82</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>12.38</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
+<offer internal-id="10_195">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>квартира</category>
@@ -15107,110 +14015,6 @@
 <new-flat>1</new-flat>
 <bathroom-unit>совмещенный</bathroom-unit>
 <balcony>балкон</balcony>
-<floor>11</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/32,14.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>32.14</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>12.25</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_188">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3822780</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>3</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>11</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/65,91.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>65.91</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>37.21</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_195">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1799840</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
 <floor>12</floor>
 <floors-total>12</floors-total>
 <building-name>Светлоград</building-name>
@@ -15234,58 +14038,6 @@
 </area>
 <living-space>
 <value>12.25</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_197">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3756870</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>3</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>12</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/65,91.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>65.91</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>37.21</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -15301,7 +14053,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3400540</value>
+<value>3459170</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -15353,7 +14105,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3400540</value>
+<value>3429855</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -15390,110 +14142,6 @@
 </area>
 <living-space>
 <value>28.35</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_243">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3374400</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>6</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/59,2.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>59.2</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>17.55</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_247">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1822338</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>7</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/32,14.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>32.14</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>12.25</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -15613,7 +14261,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3888690</value>
+<value>3921645</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -15717,7 +14365,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1806268</value>
+<value>1848050</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -15757,58 +14405,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="10_266">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1911840</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>9</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/34,14.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>34.14</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>13.33</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="10_275">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -15821,7 +14417,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1911840</value>
+<value>1945980</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -15873,7 +14469,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3822780</value>
+<value>3855735</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -15925,7 +14521,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1911840</value>
+<value>1980120</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -15977,7 +14573,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3756870</value>
+<value>3822780</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16029,7 +14625,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1774128</value>
+<value>1848050</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16081,7 +14677,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3315200</value>
+<value>3374400</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16133,7 +14729,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3347680</value>
+<value>3407460</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16185,7 +14781,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3407460</value>
+<value>3467240</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16237,7 +14833,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2258660</value>
+<value>2222230</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16289,7 +14885,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3407460</value>
+<value>3467240</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16326,58 +14922,6 @@
 </area>
 <living-space>
 <value>30.11</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="10_329">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1928910</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>5</floor>
-<floors-total>12</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544695</yandex-house-id>
-<building-section>литер 10</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>4</ready-quarter>
-<built-year>2020</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/34,14.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>34.14</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>13.33</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -16497,7 +15041,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3409280</value>
+<value>3531040</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16601,7 +15145,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3409280</value>
+<value>3531040</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16693,6 +15237,58 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
+<offer internal-id="10_368">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>3954600</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>3</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>9</floor>
+<floors-total>12</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544695</yandex-house-id>
+<building-section>литер 10</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>4</ready-quarter>
+<built-year>2020</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l10/65,91.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>65.91</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>37.21</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
 <offer internal-id="10_370">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -16705,7 +15301,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3409280</value>
+<value>3470160</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16757,7 +15353,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3409280</value>
+<value>3470160</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16809,7 +15405,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1894770</value>
+<value>1945980</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16861,7 +15457,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3409280</value>
+<value>3470160</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16913,7 +15509,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2223570</value>
+<value>2262580</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -16965,7 +15561,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2290260</value>
+<value>2370620</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17017,7 +15613,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1500000</value>
+<value>1506700</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17069,7 +15665,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3034080</value>
+<value>3088260</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17121,7 +15717,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2355240</value>
+<value>2396560</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17161,58 +15757,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="12_19">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3073600</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>3</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544703</yandex-house-id>
-<building-section>литер 12</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l12/54,4.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>54.4</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>31.11</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="12_20">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -17225,7 +15769,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2053140</value>
+<value>2089160</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17277,7 +15821,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1550000</value>
+<value>1572000</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17329,7 +15873,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2150610</value>
+<value>2188340</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17381,7 +15925,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2979900</value>
+<value>3088260</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17433,7 +15977,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2313920</value>
+<value>2355240</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17485,7 +16029,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2017120</value>
+<value>2089160</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17525,110 +16069,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="12_37">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2979900</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>5</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544703</yandex-house-id>
-<building-section>литер 12</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l12/54,18.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>54.18</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>31.04</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="12_56">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2075150</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>7</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544703</yandex-house-id>
-<building-section>литер 12</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l12/37,73.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>37.73</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>17.12</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="12_58">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -17641,7 +16081,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2272600</value>
+<value>2313920</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17693,7 +16133,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2209900</value>
+<value>2330440</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17745,7 +16185,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1550000</value>
+<value>1572000</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17785,58 +16225,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="12_65">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1407900</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<studio>1</studio>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>8</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544703</yandex-house-id>
-<building-section>литер 12</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l12/24,7.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>24.7</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>14.4</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="12_66">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -17849,7 +16237,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2075150</value>
+<value>2112880</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17901,7 +16289,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2272600</value>
+<value>2313920</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -17953,7 +16341,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2145550</value>
+<value>2184560</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18005,7 +16393,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2189810</value>
+<value>2250080</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18057,7 +16445,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1545800</value>
+<value>1558900</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18097,6 +16485,58 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
+<offer internal-id="12_80">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<creation-date>2020-06-21T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<locality-name>Краснодар</locality-name>
+<address>ул. Красных Партизан 1/4</address>
+</location>
+<deal-status>Первичная продажа</deal-status>
+<price>
+<value>2223570</value>
+<currency>RUR</currency>
+</price>
+<sales-agent>
+<phone>+7(800)-222-81-81</phone>
+<organization>ООО “Семья”</organization>
+<url>https://family-yug.ru/</url>
+<category>developer</category>
+<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
+</sales-agent>
+<rooms>1</rooms>
+<new-flat>1</new-flat>
+<bathroom-unit>совмещенный</bathroom-unit>
+<balcony>балкон</balcony>
+<floor>3</floor>
+<floors-total>8</floors-total>
+<building-name>Светлоград</building-name>
+<yandex-building-id>241340</yandex-building-id>
+<yandex-house-id>544703</yandex-house-id>
+<building-section>литер 12</building-section>
+<building-state>unfinished</building-state>
+<ready-quarter>2</ready-quarter>
+<built-year>2021</built-year>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l12/39,01.png</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
+<area>
+<value>39.01</value>
+<unit>кв. м</unit>
+</area>
+<living-space>
+<value>16.9</value>
+<unit>кв. м</unit>
+</living-space>
+</offer>
 <offer internal-id="12_86">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -18109,7 +16549,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3189425</value>
+<value>3217650</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18161,7 +16601,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2287980</value>
+<value>2328120</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18213,7 +16653,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2123835</value>
+<value>2180220</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18253,58 +16693,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="12_89">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>2184560</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>4</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544703</yandex-house-id>
-<building-section>литер 12</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l12/39,01.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>39.01</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>16.9</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="12_94">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -18317,7 +16705,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2112880</value>
+<value>2150610</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18369,7 +16757,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3161200</value>
+<value>3217650</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18421,7 +16809,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2105040</value>
+<value>2142630</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18458,58 +16846,6 @@
 </area>
 <living-space>
 <value>16.82</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="12_102">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1550000</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<studio>1</studio>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>5</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544703</yandex-house-id>
-<building-section>литер 12</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l12/24,7.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>24.7</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>14.4</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -18577,7 +16913,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3104750</value>
+<value>3161200</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18629,7 +16965,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2145550</value>
+<value>2184560</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18681,7 +17017,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1545800</value>
+<value>1558900</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18733,7 +17069,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2075150</value>
+<value>2094015</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18785,7 +17121,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2207700</value>
+<value>2247840</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18837,7 +17173,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2106540</value>
+<value>2145550</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18877,58 +17213,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="12_144">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1999110</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>3</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544703</yandex-house-id>
-<building-section>литер 12</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l12/36,02.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>36.02</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>16.39</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="12_145">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -18941,7 +17225,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3046400</value>
+<value>3100800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -18993,7 +17277,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3034080</value>
+<value>3088260</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19045,7 +17329,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2075150</value>
+<value>2112880</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19097,7 +17381,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2290260</value>
+<value>2330440</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19149,7 +17433,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2017120</value>
+<value>2035130</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19201,7 +17485,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3034080</value>
+<value>3088260</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19253,7 +17537,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2075150</value>
+<value>2112880</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19357,7 +17641,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1519600</value>
+<value>1545800</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19409,7 +17693,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2223570</value>
+<value>2243075</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19461,7 +17745,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2313920</value>
+<value>2355240</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19513,7 +17797,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2979900</value>
+<value>3034080</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19565,7 +17849,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2037420</value>
+<value>2056285</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19669,7 +17953,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1500000</value>
+<value>1519600</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19721,7 +18005,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2272600</value>
+<value>2313920</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19825,7 +18109,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1500000</value>
+<value>1506500</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -19877,7 +18161,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>1963090</value>
+<value>1981100</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -20073,58 +18357,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="12_199">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Красных Партизан 1/4</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>1358500</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<studio>1</studio>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>8</floor>
-<floors-total>8</floors-total>
-<building-name>Светлоград</building-name>
-<yandex-building-id>241340</yandex-building-id>
-<yandex-house-id>544703</yandex-house-id>
-<building-section>литер 12</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>2</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l12/24,7.png</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/s7.jpg</image>
-<area>
-<value>24.7</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>14.4</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="12_200">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -20241,7 +18473,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>2106540</value>
+<value>2145550</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -20957,7 +19189,7 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="1_125">
+<offer internal-id="1_476">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>квартира</category>
@@ -20969,59 +19201,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>3263150</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>1</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>3</floor>
-<floors-total>23</floors-total>
-<building-name>Все Свои</building-name>
-<yandex-building-id>1653493</yandex-building-id>
-<yandex-house-id>1653542</yandex-house-id>
-<building-section>литер 1</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>1</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l1/38,39.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs7.jpg</image>
-<area>
-<value>38.39</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>10.77</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="1_301">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Колхозная, 5</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>3475210</value>
+<value>3271030</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -21044,7 +19224,7 @@
 <building-state>unfinished</building-state>
 <ready-quarter>1</ready-quarter>
 <built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l1/41,87.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l1/39,41.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs1.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs2.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs3.jpg</image>
@@ -21053,11 +19233,11 @@
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs6.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs7.jpg</image>
 <area>
-<value>41.87</value>
+<value>39.41</value>
 <unit>кв. м</unit>
 </area>
 <living-space>
-<value>12.97</value>
+<value>11.17</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -21165,58 +19345,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="1_459">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Колхозная, 5</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>4599350</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>19</floor>
-<floors-total>23</floors-total>
-<building-name>Все Свои</building-name>
-<yandex-building-id>1653493</yandex-building-id>
-<yandex-house-id>1653542</yandex-house-id>
-<building-section>литер 1</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>1</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l1/54,11.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs7.jpg</image>
-<area>
-<value>54.11</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>31.04</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="1_5">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -21314,58 +19442,6 @@
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs7.jpg</image>
 <area>
 <value>55.6</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>31.11</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="1_610">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Колхозная, 5</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>4745550</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>17</floor>
-<floors-total>23</floors-total>
-<building-name>Все Свои</building-name>
-<yandex-building-id>1653493</yandex-building-id>
-<yandex-house-id>1653542</yandex-house-id>
-<building-section>литер 1</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>1</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l1/55,83.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs7.jpg</image>
-<area>
-<value>55.83</value>
 <unit>кв. м</unit>
 </area>
 <living-space>
@@ -22413,58 +20489,6 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="1_352">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Колхозная, 5</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>6131200</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>3</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>7</floor>
-<floors-total>23</floors-total>
-<building-name>Все Свои</building-name>
-<yandex-building-id>1653493</yandex-building-id>
-<yandex-house-id>1653542</yandex-house-id>
-<building-section>литер 1</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>1</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l1/76,64.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs7.jpg</image>
-<area>
-<value>76.64</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>32</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
 <offer internal-id="1_433">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -22673,7 +20697,7 @@
 <unit>кв. м</unit>
 </living-space>
 </offer>
-<offer internal-id="1_113">
+<offer internal-id="5_147">
 <type>продажа</type>
 <property-type>жилая</property-type>
 <category>квартира</category>
@@ -22685,7 +20709,7 @@
 </location>
 <deal-status>Первичная продажа</deal-status>
 <price>
-<value>7800800</value>
+<value>2439500</value>
 <currency>RUR</currency>
 </price>
 <sales-agent>
@@ -22695,20 +20719,20 @@
 <category>developer</category>
 <photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
 </sales-agent>
-<rooms>2</rooms>
+<studio>1</studio>
 <new-flat>1</new-flat>
 <bathroom-unit>совмещенный</bathroom-unit>
 <balcony>балкон</balcony>
-<floor>21</floor>
-<floors-total>23</floors-total>
+<floor>4</floor>
+<floors-total>16</floors-total>
 <building-name>Все Свои</building-name>
 <yandex-building-id>1653493</yandex-building-id>
-<yandex-house-id>1653542</yandex-house-id>
-<building-section>литер 1</building-section>
+<yandex-house-id>2011436</yandex-house-id>
+<building-section>литер 5</building-section>
 <building-state>unfinished</building-state>
-<ready-quarter>1</ready-quarter>
+<ready-quarter>3</ready-quarter>
 <built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l1/97,51.jpg</image>
+<image>https://family-yug.ru/xml-feed-for-yandex/plans/l5/28,7.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs1.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs2.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs3.jpg</image>
@@ -22717,11 +20741,11 @@
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs6.jpg</image>
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs7.jpg</image>
 <area>
-<value>97.51</value>
+<value>28.7</value>
 <unit>кв. м</unit>
 </area>
 <living-space>
-<value>27.93</value>
+<value>18.25</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -22982,58 +21006,6 @@
 </area>
 <living-space>
 <value>13.82</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="5_232">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Колхозная, 5</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>4439400</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>2</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>13</floor>
-<floors-total>16</floors-total>
-<building-name>Все Свои</building-name>
-<yandex-building-id>1653493</yandex-building-id>
-<yandex-house-id>2011436</yandex-house-id>
-<building-section>литер 5</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>3</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l5/52,85.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs7.jpg</image>
-<area>
-<value>52.85</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>25.64</value>
 <unit>кв. м</unit>
 </living-space>
 </offer>
@@ -23602,58 +21574,6 @@
 <image>https://family-yug.ru/xml-feed-for-yandex/plans/vs7.jpg</image>
 <area>
 <value>76.51</value>
-<unit>кв. м</unit>
-</area>
-<living-space>
-<value>32</value>
-<unit>кв. м</unit>
-</living-space>
-</offer>
-<offer internal-id="5_102">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<creation-date>2020-06-21T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<locality-name>Краснодар</locality-name>
-<address>ул. Колхозная, 5</address>
-</location>
-<deal-status>Первичная продажа</deal-status>
-<price>
-<value>6132000</value>
-<currency>RUR</currency>
-</price>
-<sales-agent>
-<phone>+7(800)-222-81-81</phone>
-<organization>ООО “Семья”</organization>
-<url>https://family-yug.ru/</url>
-<category>developer</category>
-<photo>https://family-yug.ru/upload/logo_social_200x200.png</photo>
-</sales-agent>
-<rooms>3</rooms>
-<new-flat>1</new-flat>
-<bathroom-unit>совмещенный</bathroom-unit>
-<balcony>балкон</balcony>
-<floor>13</floor>
-<floors-total>16</floors-total>
-<building-name>Все Свои</building-name>
-<yandex-building-id>1653493</yandex-building-id>
-<yandex-house-id>2011436</yandex-house-id>
-<building-section>литер 5</building-section>
-<building-state>unfinished</building-state>
-<ready-quarter>3</ready-quarter>
-<built-year>2021</built-year>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/l5/76,65.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs1.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs2.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs3.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs4.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs5.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs6.jpg</image>
-<image>https://family-yug.ru/xml-feed-for-yandex/plans/vs7.jpg</image>
-<area>
-<value>76.65</value>
 <unit>кв. м</unit>
 </area>
 <living-space>

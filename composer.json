@@ -1,5 +1,5 @@
 {
-    "name": "alexey/feed-creator",
+    "name": "alexey-654/feed-creator",
     "description": "Create xml feed for realty.yandex.ru",
     "type": "project",
     "license": "MIT",
@@ -9,23 +9,22 @@
             "email": "vianosenko@gmail.com"
         }
     ],
-    "bin": [
-        "bin/xmlfeed"
-    ],
     "scripts": {
         "phpcs": "phpcs"
     },
     "autoload": {
         "files": [
-            "src/FeedCreator.php"
+            "src/FeedCreator.php",
+            "src/MakeFeedOffers.php",
+            "src/ParseExcelFile.php"
         ]
     },
     "require": {
         "shuchkin/simplexlsx": "^0.8.17",
-        "nesbot/carbon": "^2.35",
-        "docopt/docopt": "^1.0"
+        "nesbot/carbon": "^2.35"
     },
     "require-dev": {
-        "squizlabs/php_codesniffer": "^3.5"
+        "squizlabs/php_codesniffer": "^3.5",
+        "phpunit/phpunit": "^9.3"
     }
 }

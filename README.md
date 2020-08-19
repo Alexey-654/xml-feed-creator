@@ -1,9 +1,9 @@
 # CLI utility - xml-feed-creator
 
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>  
 [![Maintainability](https://api.codeclimate.com/v1/badges/f0a93a4dd66185e09eaf/maintainability)](https://codeclimate.com/github/Alexey-654/xml-feed-creator/maintainability)
 
-This project helps generate xml file from xlsx file type.
-Then this xml-feed goes to web and parsed by realty.yandex.ru and other classified advertisements website.
+This project helps generate xml file for classified advertisements websites (realty.yandex.ru, cian.ru)
 
 
 ## Installation
@@ -14,13 +14,7 @@ $ make install
 ```
 
 ## Usage
-In your Unix terminal go to the directory with installed package, then type:
+One simple function
 ```bash
-$ bin/xmlfeed <pathToInputFile> [<pathToOutputFile>]
+createFeed($pathToInputFile, $pathToOutputFile, $creationDate);
 ```
-
-On Windows in your shell type -
-```bash
-$ php .\bin\xmlfeed .\sample-data\InputData.xlsx
-```
- 

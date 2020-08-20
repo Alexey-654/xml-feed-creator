@@ -12,38 +12,26 @@ function makeFeedOffers(array $rows, string $creationDate)
             $offers[] = '<property-type>' . $row['property-type'] . '</property-type>';
             $offers[] = '<category>' . $row['category flat'] . '</category>';
             $offers[] = '<creation-date>' . $creationDate . '</creation-date>';
-        
-            // inner elements location start
-            $offers[] = '<location>';
+            $offers[] = '<location>'; // inner elements location start
             $offers[] = '<country>' . $row['country'] . '</country>';
             $offers[] = '<locality-name>' . $row['locality-name'] . '</locality-name>';
             $offers[] = '<address>' . $row['address'] . '</address>';
-            $offers[] = '</location>';
-            // inner elements location end
-        
+            $offers[] = '</location>'; // inner elements location end
             $offers[] = '<deal-status>' . $row['deal-status'] . '</deal-status>';
-        
-            // inner elements price start
-            $offers[] = '<price>';
+            $offers[] = '<price>'; // inner elements price start
             $offers[] = '<value>' . $row['value'] . '</value>';
             $offers[] = '<currency>' . $row['currency'] . '</currency>';
-            $offers[] = '</price>';
-            // inner elements price end
-        
-            // inner elements sales-agent start
-            $offers[] = '<sales-agent>';
+            $offers[] = '</price>'; // inner elements price end
+            $offers[] = '<sales-agent>'; // inner elements sales-agent start
             $offers[] = '<phone>' . $row['phone'] . '</phone>';
             $offers[] = '<organization>' . $row['organization'] . '</organization>';
             $offers[] = '<url>' . $row['url'] . '</url>';
             $offers[] = '<category>' . $row['category'] . '</category>';
             $offers[] = '<photo>' . $row['photo'] . '</photo>';
-            $offers[] = '</sales-agent>';
-            // inner elements sales-agent end
-
+            $offers[] = '</sales-agent>'; // inner elements sales-agent end
             $offers[] = (empty($row['rooms']))
                     ? '<studio>' . $row['studio'] . '</studio>'
                     : '<rooms>' . $row['rooms'] . '</rooms>';
-
             $offers[] = '<new-flat>' . $row['new-flat'] . '</new-flat>';
             $offers[] = '<bathroom-unit>' . $row['bathroom-unit'] . '</bathroom-unit>';
             $offers[] = '<balcony>' . $row['balcony'] . '</balcony>';
@@ -56,32 +44,22 @@ function makeFeedOffers(array $rows, string $creationDate)
             $offers[] = '<building-state>' . $row['building-state'] . '</building-state>';
             $offers[] = '<ready-quarter>' . $row['ready-quarter'] . '</ready-quarter>';
             $offers[] = '<built-year>' . $row['built-year'] . '</built-year>';
-            
-            // images start
-            $offers[] = '<image>' . $row['image1'] . '</image>';
+            $offers[] = '<image>' . $row['image1'] . '</image>'; // images start
             $offers[] = '<image>' . $row['image2'] . '</image>';
             $offers[] = '<image>' . $row['image3'] . '</image>';
             $offers[] = '<image>' . $row['image4'] . '</image>';
             $offers[] = '<image>' . $row['image5'] . '</image>';
             $offers[] = '<image>' . $row['image6'] . '</image>';
             $offers[] = '<image>' . $row['image7'] . '</image>';
-            $offers[] = '<image>' . $row['image8'] . '</image>';
-            // images end
-            
-            // inner elements area start
-            $offers[] = '<area>';
+            $offers[] = '<image>' . $row['image8'] . '</image>'; // images end
+            $offers[] = '<area>'; // inner elements area start
             $offers[] = '<value>' . $row['value_area'] . '</value>';
             $offers[] = '<unit>' . $row['unit_area'] . '</unit>';
-            $offers[] = '</area>';
-            // inner elements area end
-        
-            // inner elements living-space start
-            $offers[] = '<living-space>';
+            $offers[] = '</area>'; // inner elements area end
+            $offers[] = '<living-space>'; // inner elements living-space start
             $offers[] = '<value>' . $row['value-living-space'] . '</value>';
             $offers[] = '<unit>' . $row['unit-living-space'] . '</unit>';
-            $offers[] = '</living-space>';
-            // inner elements living-space end
-            
+            $offers[] = '</living-space>'; // inner elements living-space end
             $offers[] = '</offer>';
         }
     }

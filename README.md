@@ -2,8 +2,9 @@
 This project helps generate xml file for classified advertisements websites (realty.yandex.ru, cian.ru).  
 It parse data from excel file and ouput valid xml file.
 
+![CI](https://github.com/Alexey-654/xml-feed-creator/workflows/CI/badge.svg)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f0a93a4dd66185e09eaf/maintainability)](https://codeclimate.com/github/Alexey-654/xml-feed-creator/maintainability)
-
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f0a93a4dd66185e09eaf/test_coverage)](https://codeclimate.com/github/Alexey-654/xml-feed-creator/test_coverage)
 
 
 ## Installation
